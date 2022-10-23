@@ -1,5 +1,9 @@
 
 
+// function Comment({user, content}){
+
+// }
+
 function Post({user, post}) {
   const {name, pfp} = user;
   const {image, comments} = post;

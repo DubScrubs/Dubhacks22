@@ -11,6 +11,7 @@ body {
   margin-top: 0;
   background: #CCE7C9;
   width: 80%;
+  height: 100%;
   margin: 0 auto 0 auto;
 
 }
@@ -43,32 +44,36 @@ a {
 .Theme {
   padding: 20% 0% 5% 0%;
   font-weight: bold;
-  font-size: 2em
+  font-size: 2em;
 }
 
 .Theme h2{
-  font-size: 2.5em;
-  letter-spacing: .1em;
+  font-size: 1em;
+  letter-spacing: .05em;
+}
+
+.Theme h3{
+  font-size: .4em;
 }
 
 .post {
-  margin: 2em 0 2em 0;
+  margin: .1em 0 2em 0;
 }
 
 .post-header {
-  height: 7.5em;
+  height: 2.5em;
   display: flex;
   align-items: center;
 }
 
 .post-header img{
-  height: 6.5em;
+  height: 2em;
   margin: .5em .5em .5em 0;
 }
 
 .post-header h4{
-  margin-left: 1em;
-  font-size: 2em;
+  margin-left: .2em;
+  font-size: 75.em;
 }
 
 .post-img{
