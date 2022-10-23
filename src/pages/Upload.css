@@ -1,0 +1,15 @@
+.task{
+    padding-top: 40%;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.upload{
+    padding: 180px 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+.privacy-buts{
+    padding: 50px;
+    text-align: center;
+}
