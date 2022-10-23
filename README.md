@@ -23,7 +23,8 @@ We started off by brainstorming how an app can improve our everyday life. We the
 
 
 # Challenges we ran into
-At first, trying to come up with an idea of what we wanted to create. We also ran into trouble trying to get GitHub to work with commitment issues. Another challenge we had was with some of our team members being unfamiliar with using React. 
+At first, we had difficulty coming up with an idea of what we wanted to create. Throughout the process of building our app, we also encountered several issues with pushing and merging our code to GitHub. Most of our team members also had minimal to no experience using React prior to this hackathon, so it took longer 
+
 
 # Accomplishments we're proud of
 We are proud of being able to learn how to use Figma. Some of us were also able to learn a lot of ways to use HTML, CSS, JS to create an app. 
