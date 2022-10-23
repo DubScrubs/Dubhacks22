@@ -32,3 +32,10 @@ How to use the features of Figma and React.
 * implementing the backend server using some kind of database to hold and return all days posts
 * adding friends to share content with a smaller group of people as not everyone may be comfortable posting publicly
 * implementing public/private posting feature
+
+# Authors and acknowledgment
+
+* [Jessie Xu](https://github.com/jessiex8)
+* [Ha vi Duong](https://github.com/haviduong)
+* [Christian Estrella](https://github.com/chrisestrella)
+
