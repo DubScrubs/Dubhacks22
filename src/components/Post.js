@@ -35,14 +35,6 @@ function Post({user, post}) {
 
 
       <div className="post-comments">
-        {/* <div className="comment">
-          <p className="comment-name">
-            name
-          </p>
-          <p className="comment-content">
-            wow nice pic
-          </p>
-        </div> */}
         {Comments}
       </div>
     </div>
