@@ -4,6 +4,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
 import Upload from './pages/Upload';
+import About from './pages/About';
+import Profile from './components/Profile';
 import ErrorPage from './ErrorPage';
 import reportWebVitals from './reportWebVitals';
 
@@ -16,7 +18,9 @@ root.render(
 
       <Route path="/Upload" element={<Upload/>} />
 
-      Route
+      <Route path='/About/:user' element={<Profile />}/>
+        {/* <Route path=":user" element={<Profile />} /> */}
+      {/* </Route> */}
 
       <Route path="*" element={<ErrorPage/>}/>
 
