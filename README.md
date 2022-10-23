@@ -38,7 +38,7 @@ Then, for features, we'd like to replace the upload post option with a camera op
 
 # Authors and acknowledgment
 
-* [Jessie Xu](https://github.com/jessiex8)
+* [Jessie Xu](https://github.com/jessiex87)
 * [Ha vi Duong](https://github.com/haviduong)
 * [Christian Estrella](https://github.com/chrisestrella)
 
