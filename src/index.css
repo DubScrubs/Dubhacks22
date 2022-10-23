@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   outline: 1px solid #FD6883;
-  font-family: 'Ubuntu Mono', monospace;
+  font-family: 'Helvetica', monospace;
 }
 
 
@@ -33,9 +33,10 @@ a {
 }
 
 #navbar > *{
-  margin: 30px;
+  margin: 4px;
   background-color: white;
   overflow: hidden;
+
 
 }
 
@@ -87,13 +88,15 @@ a {
 .comment {
   display: flex;
   align-items: center;
-  /* font-weight: bold; */
+  font-size: 15px;
 }
 
 .comment-name {
   font-weight: bold;
-  margin-right: 2em;
+  margin-right: 1em;
+  font-size: 15px;
 }
+
 .profile {
   display: flex;
   flex-direction: column;
