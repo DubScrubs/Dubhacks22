@@ -23,19 +23,18 @@ We started off by brainstorming how an app can improve our everyday life. We the
 
 
 # Challenges we ran into
-At first, we had difficulty coming up with an idea of what we wanted to create. Throughout the process of building our app, we also encountered several issues with pushing and merging our code to GitHub. Most of our team members also had minimal to no experience using React prior to this hackathon, so it took longer 
+None of our team members had experience with UI design or using Figma, so it took some time to understand how to use the tools provided in Figma to create designs that were intuitive and easy to use for our users. Throughout the process of building our app, we also encountered several issues with pushing and merging our code to GitHub. Most of our team members also had minimal to no experience using React prior to this hackathon, so it took longer at times for us to code out what we wanted.
 
 
 # Accomplishments we're proud of
-We are proud of being able to learn how to use Figma. Some of us were also able to learn a lot of ways to use HTML, CSS, JS to create an app. 
+We are proud of being able to learn how to use the features in Figma to design our project. Some of us were also able build our understanding on HTML, CSS, and JS, and how they work together to create an app.
 
 # What we learned
 How to use the features of Figma and React. 
 
 # What's next
-* implementing the backend server using some kind of database to hold and return all days posts
-* adding friends to share content with a smaller group of people as not everyone may be comfortable posting publicly
-* implementing public/private posting feature
+First, we would work on implementing the backend server using some kind of database to hold and return all days' posts. 
+Then, for features, we'd like to replace the upload post option with a camera option so students will be required to complete the task the day it's given rather than uploading a past image. Additionally, we would like to add a way for users to add friends and be able to choose to share their content with their smaller circle of friends (rather than to everyone at their institution), as not everyone may be comfortable certain photos publicly.
 
 # Authors and acknowledgment
 
