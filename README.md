@@ -3,10 +3,10 @@
 </p>
 
 
-#Touch grass
+# Touch grass
 A way to create less
 
-##Inspiration
+## Inspiration
 
 Throughout the past few years, for those who use social media, one issue that arises is not knowing how to post or one has nothing to post. So we wanted to create a platform that will include and promote a wider range of engagement for those who want to interact more with their peers socially but have been feeling this way.
 
