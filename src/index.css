@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   outline: 1px solid #FD6883;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+
+body {
+  margin-top: 0;
+  background: #CCE7C9;
+  width: 80%;
+  margin: 0 auto 0 auto;
+
 }
 
 a {
@@ -14,9 +24,10 @@ a {
 
 #navbar {
   display: flex;
-  height: 70px;
   align-items: center;
+  height: 10%;
   /* justify-content: center; */
+  position: fixed;
 }
 
 #navbar > *{
@@ -27,4 +38,39 @@ a {
   height: 50px;
   width: 50px;
   margin-right: auto;
+}
+
+.Theme {
+  padding: 20% 0% 5% 0%;
+  font-weight: bold;
+  font-size: 2em
+}
+
+.Theme h2{
+  font-size: 2.5em;
+  letter-spacing: .1em;
+}
+
+.post {
+  margin: 2em 0 2em 0;
+}
+
+.post-header {
+  height: 7.5em;
+  display: flex;
+  align-items: center;
+}
+
+.post-header img{
+  height: 6.5em;
+  margin: .5em .5em .5em 0;
+}
+
+.post-header h4{
+  margin-left: 1em;
+  font-size: 2em;
+}
+
+.post-img{
+  width: 100%;
 }
