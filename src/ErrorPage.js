@@ -1,15 +1,14 @@
-import './App.css';
 import Navbar from  './mainponents/Navbar'
 
 
-function App() {
+function ErrorPage() {
   return (
     <>
       <Navbar/>
-      <h1>start</h1>
+      <h1>Error 404</h1>
 
     </>
   );
 }
 
-export default App;
+export default ErrorPage;
