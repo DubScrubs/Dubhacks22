@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/UWB-Hacks-From-Home-Project/StretchIt/blob/fb6015c5b14907941ac46cac9bb7f49a40c9870a/assets/logo%20without%20background.png">
+    <img src="https://github.com/DubScrubs/Dubhacks22/blob/master/src/imgs/Touch%20Grass.png">
 </p>
 
 
