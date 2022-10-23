@@ -1,14 +1,27 @@
 
 
-// function Comment({user, content}){
+function Comment({user, content}){
 
-// }
+  return (
+    <div className="comment">
+          <p className="comment-name">
+            {user}
+          </p>
+          <p className="comment-content">
+            {content}
+          </p>
+        </div>
+  );
+}
 
 function Post({user, post}) {
   const {name, pfp} = user;
   const {image, comments} = post;
 
-
+  const Comments = comments.map(comment => {
+    console.log(comment)
+    return <Comment user={comment.user} content={comment.comment}/>
+  })
 
   return (
     <div className="post">
@@ -22,14 +35,15 @@ function Post({user, post}) {
 
 
       <div className="post-comments">
-        <div className="comment">
+        {/* <div className="comment">
           <p className="comment-name">
             name
           </p>
           <p className="comment-content">
             wow nice pic
           </p>
-        </div>
+        </div> */}
+        {Comments}
       </div>
     </div>
   );
