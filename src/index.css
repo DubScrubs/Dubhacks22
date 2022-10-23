@@ -79,3 +79,13 @@ a {
 .post-img{
   width: 100%;
 }
+
+.comment {
+  display: flex;
+  align-items: center;
+}
+
+.comment-name {
+  font-weight: bold;
+  word-spacing: 20px;
+}
