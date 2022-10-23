@@ -4,7 +4,7 @@
 
 
 # Touch grass
-A way to create less
+A way to go out to explore and meet others.
 
 ## Inspiration
 
@@ -13,3 +13,15 @@ Throughout the past few years, for those who use social media, one issue that ar
 We wanted to center this app around students at university campuses to connect them with their peers. 
 
 Additionally, with the busy schedules of many college students, some don’t make time to do other activities, and we wanted to have a feature that will also encourage them to take a break with an activity to do. 
+
+# What it does
+
+# How we built it
+
+# Challenges we ran into
+
+# Accomplishments we're proud of
+
+# What we learned
+
+# What'snext
