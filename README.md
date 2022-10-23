@@ -34,7 +34,7 @@ How to use the features of Figma and React.
 
 # What's next
 First, we would work on implementing the backend server using some kind of database to hold and return all days' posts. 
-Then, for features, we'd like to replace the upload post option with a camera option so students will be required to complete the task the day it's given rather than uploading a past image. Additionally, we would like to add a way for users to add friends and be able to choose to share their content with their smaller circle of friends (rather than to everyone at their institution), as not everyone may be comfortable certain photos publicly.
+Then, for features, we'd like to replace the upload post option with a camera option so students will be required to complete the task the day it's given rather than uploading a past image. Additionally, we would like to have a way for users to add friends and be able to choose to share their content with their smaller circle of friends (rather than to everyone at their institution), as not everyone may be comfortable sharing certain photos publicly.
 
 # Authors and acknowledgment
 
