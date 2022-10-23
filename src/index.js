@@ -16,6 +16,8 @@ root.render(
 
       <Route path="/Upload" element={<Upload/>} />
 
+      Route
+
       <Route path="*" element={<ErrorPage/>}/>
 
     </Routes>
