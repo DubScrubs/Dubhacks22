@@ -7,9 +7,13 @@ function Page({user, bio, pfp}){
 
   return (
     <>
-      <img src={pfp} alt="" className="about-pfp" />
+      <img src={pfp} alt="" className="profile-pfp" />
       <h2>{user}</h2>
-      <p className="about-bio">{bio}</p>
+      <p className="profile-bio">{bio}</p>
+      <p>see post from:</p>
+      <div className="calendar">
+
+      </div>
       {/* <Calendar user={user}/> */}
     </>
   )
