@@ -14,8 +14,9 @@ We wanted to center this app around students at university campuses to connect t
 Additionally, with the busy schedules of many college students, some don’t make time to do other activities, and we wanted to have a feature that will also encourage them to take a break with an activity to do. 
 
 # What it does
-Everyday, users will receive a notification for a task to be completed and posted within the next 24 hours. For example, these tasks may include, “Go to your favorite spot on campus!” and “Go 
-On the way you might be able to meet people because.There can be special events that are h
+Everyday, users that are students at the same institution will receive a notification for a task to be completed and posted within the next 24 hours. For example, these tasks may include, “Go to your favorite spot on campus!” or “Go on an outdoor walk” and users will upload a photo of them completing this task, which will be made available for others at their school to view and comment on.
+
+One special features is that because the posts are limited to students of the same university, there will be bonus tasks that are related to any events happening on campus that day, to also encourage students to “touch grass” and have the opportunity to engage more with their community at school.
 
 # How we built it
 We started off by brainstorming how an app can improve our everyday life. We then started working on design through Figma. After getting our prototype, we started to build it out in React.
