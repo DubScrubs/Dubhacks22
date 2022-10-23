@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   outline: 1px solid #FD6883;
-  font-family: 'Ubuntu Mono', monospace;
+  font-family: 'Helvetica', monospace;
 }
 
 
@@ -34,14 +34,19 @@ a {
   height: 10%;
   /* justify-content: center; */
   position: fixed;
+
 }
 
 #navbar > *{
-  margin: 10px;
+  margin: 4px;
+  background-color: white;
+  overflow: hidden;
+
+
 }
 
 #navbar img {
-  height: 50px;
+  height: 50spx;
   width: 50px;
   margin-right: auto;
 }
@@ -83,6 +88,18 @@ a {
 
 .post-img{
   width: 100%;
+}
+
+.comment {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+}
+
+.comment-name {
+  font-weight: bold;
+  margin-right: 1em;
+  font-size: 15px;
 }
 
 .profile {
